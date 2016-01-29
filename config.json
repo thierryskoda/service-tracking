@@ -1,0 +1,7 @@
+{
+	"EASYPOST_API_KEY_TEST": "sx1JQTfp0FlY4Zoc5sqBHg",
+	"EASYPOST_API_KEY_LIVE": "LMZUo7ZZE6j0pwO64CT5MA",
+	"EASYPOST_API_SECRET": "LMZUo7ZZE6j0pwO64CT5MA",
+	"MONGO_URL": "mongodb://heroku_zrdgqchg:bfeag4khiietrc15mkt7na6blj@ds035553.mongolab.com:35553/heroku_zrdgqchg",
+	"DISCOSHARE_TOKEN": "thierryskoda"
+}
